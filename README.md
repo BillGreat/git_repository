@@ -1,11 +1,12 @@
-my's docs and something others for remember¡£
+my's docs and something others for rememberã€‚
 
-Ä¿Â¼½á¹¹£º
---docs:				ÎÄµµ×ÊÁÏ
+ç›®å½•ç»“æ„ï¼š
+--docs:				æ–‡æ¡£èµ„æ–™
 	--...
---sql£º				Êı¾İ¿â½Å±¾ºÍ²İ¸å¿â
+	--docs.text		docs.textæ–‡æ¡£
+--sqlï¼š				æ•°æ®åº“è„šæœ¬å’Œè‰ç¨¿åº“
 	--...
---others£º			ÆäËü×ÊÁÏĞÅÏ¢
+--othersï¼š			å…¶å®ƒèµ„æ–™ä¿¡æ¯
 	--...
 	
-create time : 2018Äê11ÔÂ21ÈÕ14:47:10
+create time : 2018å¹´11æœˆ21æ—¥14:47:10
