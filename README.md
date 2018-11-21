@@ -6,6 +6,7 @@ my's docs and something others for remember。
 	--docs.text		docs.text文档
 --sql：				数据库脚本和草稿库
 	--...
+	--sql.sql		sql.sql文档
 --others：			其它资料信息
 	--...
 	
